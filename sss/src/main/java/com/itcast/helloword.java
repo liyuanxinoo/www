@@ -9,13 +9,6 @@ public class helloword {
         System.out.println("hellow");
         System.out.println("hellow");
         System.out.println("hellow");
-        System.out.println("hellow");
-        System.out.println("hellow");
-        System.out.println("hellow");
-        System.out.println("hellow");
-        System.out.println("helfffflow");
-        System.out.println("helfffflow");
-        System.out.println("helfffflow");
-        System.out.println("helfffflow");
+
     }
 }
